@@ -4,7 +4,7 @@
 
 midjourney-style ai image and video generation, with a `--flag` prompt language and an api built for agents.
 
-[maginary.ai](https://maginary.ai) · [docs](https://maginary.ai/docs) · [mcp server](https://mcp.maginary.ai)
+[maginary.ai](https://maginary.ai) · [docs](https://maginary.ai/docs) · [mcp server](https://mcp.maginary.ai) · [demo](https://vimeo.com/1226724272)
 
 </div>
 
